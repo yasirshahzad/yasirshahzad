@@ -9,7 +9,7 @@ Dedicated and results-driven Full Stack Software Engineer with a proven track re
 * 🌍  I'm based in Lahore.
 * 🖥️  See my portfolio at [Some Projects](http://yasir.com.pk)
 * ✉️  You can contact me at [admin@yasir.com.pk](mailto:admin@yasir.com.pk)
-* 🚀  I'm currently working on [Heroic Game Dayhero](http://heroicgameday.com/)
+* 🚀  I'm currently working on [Heroic Game Day](http://heroicgameday.com/)
 * 🧠  I'm learning Unit and E2E Testing
 * 🤝  I'm open to collaborating on Nodejs, React
 
